@@ -1,0 +1,19 @@
+{
+  "name": "professionalportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuluknockoutguy/ProfessionalPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuluknockoutguy/ProfessionalPortfolio/issues"
+  },
+  "homepage": "https://github.com/zuluknockoutguy/ProfessionalPortfolio#readme"
+}
